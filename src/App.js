@@ -41,7 +41,7 @@ function App() {
 
   {/*<WhatsAppWidget phoneNumber='+919358358575' companyName='TechDeepak'/>*/}
         <div className="footer">
-        <p>@Copyright Created & Developed By Deepak Sharma</p>
+        <p>@Copyright Created & Developed By Jatin</p>
         
         </div>
 
