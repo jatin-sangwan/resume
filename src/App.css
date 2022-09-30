@@ -1,0 +1,77 @@
+.App {
+  overflow-x: hidden;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+
+  object-fit: contain;
+}
+
+header {
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.right {
+  flex: 0.7;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.site-links a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: white;
+}
+.social-links {
+  margin-right: 10%;
+}
+.social-links a > .MuiSvgIcon-root {
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 20px;
+
+  color: white;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.social-links a > .MuiSvgIcon-root:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 5px 15px grey;
+}
+.menu-btn {
+  display: none;
+}
+
+@media screen and (max-width: 786px) {
+  .right {
+    display: none;
+  }
+
+  .menu-btn {
+    display: flex;
+    border: none;
+    background-color: rgb(252, 253, 253, 0.2);
+    color: white;
+    margin-right: 10%;
+  }
+}
+.footer {
+  height: 60px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer p {
+  font-size: 10px;
+}

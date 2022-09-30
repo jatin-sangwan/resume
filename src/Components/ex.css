@@ -1,0 +1,38 @@
+.ex {
+  width: 100vw;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ex-h1 {
+  font-family: "Poppins";
+  text-transform: uppercase;
+}
+.ex-h1::after {
+  content: " ";
+  display: block;
+  width: 100px;
+  height: 4px;
+  background-color: blue;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.ex-c-left {
+  margin-left: 10px;
+}
+
+.ex-c {
+  width: 100vw;
+  height: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.ex-lottie {
+  width: 300px;
+  height: 300px;
+}
