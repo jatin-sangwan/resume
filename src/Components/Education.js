@@ -28,7 +28,7 @@ function Education() {
         <div className="ec">
         <h1 className="e-detail-h1">Division</h1>
         <p className="e-detail-p">Ist</p>
-        <p className="e-detail-p">Ist</p>
+        <p className="e-detail-p">2nd</p>
         <p className="e-detail-p">Ist</p>
         <p className="e-detail-p">Ist</p>
 
