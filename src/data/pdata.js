@@ -1,70 +1,42 @@
 export const portfolio=[
 
     {
-        image:'pimages/kkk.jpg',
-        link:'https://kattyenterprises.herokuapp.com/',
-        tech:'React Js,Redux, Django RestAPI, JWT, Material UI '
+        image:'pimages/saral.png',
+        link:'https://saralformation.com/',
+        tech:'LARAVEL'
 
     },
 
     {
-        image:'pimages/p1.jpg',
-        link:'https://cashknock.com/',
-        tech:'Django/React Js '
+        image:'pimages/chitro.png',
+        link:'https://dev.gazingtechnosoft.com/jatin/chitrolab/',
+        tech:'LARAVEL'
     },
      
     {
-        image:'pimages/p8.jpg',
-        link:'https://propertysolution.netlify.app/',
-        tech:'React Js'
+        image:'pimages/ca.png',
+        link:'https://dev.gazingtechnosoft.com/jatin/CA-Avinash/',
+        tech:'LARAVEL'
     },
     {
-        image:'pimages/p11.jpg',
-        link:'https://vishalfilm.netlify.app/',
-        tech:'React Js'
+        image:'pimages/nestray.png',
+        link:'https://nestray.com/',
+        tech:'LARAVEL'
+      
+    },
+    {
+        image:'pimages/smoke.png',
+        link:'https://dev.gazingtechnosoft.com/jatin/smokcartel/',
+        tech:'LARAVEL'
+      
+    },
+    {
+        image:'pimages/beach.png',
+        link:'https://greenleafstay.com/',
+        tech:'LARAVEL'
       
     },
  
- 
-    {
-        image:'pimages/p3.jpg',
-        link:'https://dburger.netlify.app/',
-        tech:'React Js'
-
-    },
-    {
-        image:'pimages/p4.jpg',
-        link:'https://dparlour.netlify.app/',
-        tech:'React Js'
-
-    },
-    {
-        image:'pimages/p6.jpg',
-        link:'https://dcart.netlify.app/',
-        tech:'React Js'
-    },
-    {
-        image:'pimages/p9.jpg',
-        link:'https://ultimaterobot.netlify.app/',
-        tech:'React Js'
-    },
-    {
-        image:'pimages/p10.jpg',
-        link:'https://ddentist.netlify.app/',
-        tech:'React Js'
-        
-    },
-    {
-        image:'pimages/p2.jpg',
-        link:'https://sbfngo.com/',
-        tech:'React Js'
-    },
-
-    {
-        image:'pimages/p5.jpg',
-        link:'https://getshape.netlify.app/',
-        tech:'React Js'
-    }
  
  
  

@@ -12,41 +12,41 @@ function WorkHistory() {
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>Virtual World Films</h4>
+        <h4>MR Web Technology</h4>
         
         </div>
       
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Graphics Designer</h4>
+        <h4>Php Developer</h4>
         <p> </p>
 
         
         </div>
-        <p>Wedding album design using photoshop </p>
-        <p>Photo editing,Typography,color theory </p>
-        <p>Print design flayers,posters,business card</p>
-        <p>Used photoshop to design social media images and infographic </p>
+        <p>Build a CMS (Content-Management-System) </p>
+        <p>Build Informative Websites</p>
+        <p>Build Admin Panel for different websites</p>
+        <p>Learned different web desining tools like Bootstrap</p>
     
         </div>
         
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>D Jash World of Entertainment</h4>
+        <h4>Epik Solutions</h4>
         
         </div>
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Graphics Designer</h4>
+        <h4>Php Developer</h4>
         <p> </p>
 
         
         </div>
-        <p>Wedding album design using photoshop </p>
-        <p>Photo editing,Typography,color theory </p>
-        <p>Print design flayers,posters,business card</p>
-        <p>Used photoshop to design social media images and infographic </p>
+        <p>Build E-Commerce Websites </p>
+        <p>Integrated Laravel - Angular project using api </p>
+        <p>Build website estimator project</p>
+        <p>Used Payment Gateways api</p>
   
         </div>
         
@@ -54,21 +54,21 @@ function WorkHistory() {
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>Mark Computer Software</h4>
+        <h4>Gazing Technosoft</h4>
         
         </div>
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Customer Technical Support</h4>
+        <h4>Laravel Developer</h4>
         <p> </p>
 
         
         </div>
       
-        <p> Customer Technical support of Company's Inventory software </p>
-        <p> Understanding customer problem and get it resolved </p>
-        <p>Weekly visit to customer for  software performance checking  </p>
-        <p></p>
+        <p> Build E-Commerce of Medicine Products </p>
+        <p> Created Image / Video digital, physical products website </p>
+        <p> Worked on Api creation and used built in Api </p>
+        <p> Build projects of resort, steel manufacturing and ca</p>
       
         </div>
         

@@ -22,10 +22,7 @@ function Portfolio() {
             portfolio.map((x)=>
             <div className="p-card">
             
-            
             <img src={x.image} alt="" className="p-card-img"></img>
-            
-           
             
             <div className="p-card-overlay">
             <div  className="p-card-overlay-c">
