@@ -13,7 +13,7 @@ function Skills() {
         like ours, staying on top of your game means you never stop learning.</p>
         <p>Keeping up to date with the industry. 
         Being able to manage time and prioritize. .</p>
-        <p>Good communication skills,team buiding</p>
+        <p>Good communication skills, team buiding</p>
         
         </div>
         <div className="skill-card">

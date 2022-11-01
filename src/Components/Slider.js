@@ -28,6 +28,8 @@ function Slider() {
             <div className="slider-left">
             
                 <h1 className="slider-left-h1">Hi I am Jatin</h1>
+
+                <h1 className="slider-left-h4">Innovator, Quick learner, Problem Solver</h1>
                 
                 
                 <h4 className="slider-left-h4">A passionate Full Stack Web Developer 
