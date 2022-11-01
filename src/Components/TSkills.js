@@ -25,16 +25,17 @@ function TSkills() {
         <h1 className="tskill-h1">Technical Skills</h1>
         <div className="tskill-m">
         <div className="tskill-c">
-        <p>Comprehencive Knowledge 
-        of Reactjs platform and core principle</p>
+        <p>Comprehensive Knowledge 
+        of Reactjs platform and Angular</p>
         <p> Command over 
-        HTML CSS3, Flex Box,Media quaries, Javascript fundamentals,+ES6 </p>
-        <p>Node Package manager npm,Redux State Management,Git Repository</p>
+        HTML, CSS3, Media quaries, Javascript</p>
+        <p>Node Package manager, Git Repository</p>
         <p>Command over developing reuseble React JS Components</p>
-        <p> Redux State Management</p>
+        <p>Angular Components Management</p>
         <p>UI/UX Design and development</p>
-        <p>Django RestFramework </p>
-        <p>Knowledge of continues testing,trubleshooting,integration</p>
+        <p>Knowledge of continues Testing, Trubleshooting, Integration and Deployment</p>
+        <p>Command over Website Live on Server</p>
+        <p>Payment Gateways Integration</p>
         </div>
         <div  className="tskill-lottie" ref={ref}>
         
@@ -46,4 +47,4 @@ function TSkills() {
     )
 }
 
-export default TSkills
+export default TSkills 

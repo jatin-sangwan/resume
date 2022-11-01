@@ -17,7 +17,7 @@ function Skills() {
         
         </div>
         <div className="skill-card">
-        <img src="timages/tskill.jpg" alt="" className="skill-card-img"></img>
+        <img src="timages/tech.png" alt="" className="skill-card-img"></img>
         
         </div>
       
