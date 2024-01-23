@@ -15,7 +15,7 @@ function App() {
       <div className="App">
         <header>
           <div className="left">
-            <img src="logo2.png" alt="" className="logo"></img>
+            <h3 className="portfolio">PORTFOLIO</h3>
 
           </div>
           <div className="right">
@@ -25,7 +25,7 @@ function App() {
             <ul className="social-links">
               <a href="/"><FacebookIcon /></a>
               <a href="/"><InstagramIcon /></a>
-              <a href="/"><LinkedInIcon /></a>
+              <a href="https://www.linkedin.com/in/jatin-0947/"><LinkedInIcon /></a>
 
             </ul>
 

@@ -59,7 +59,7 @@ function WorkHistory() {
         </div>
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Laravel Developer</h4>
+        <h4>Php Developer</h4>
         <p> </p>
 
         
@@ -72,6 +72,26 @@ function WorkHistory() {
       
         </div>
         
+        <div className="work-detail">
+        <div className="company" >
+        <h2>Company</h2>
+        <h4>IT Answers</h4>
+        
+        </div>
+      
+        <div className="designation">
+        <h2>Designation</h2>
+        <h4>Php Developer</h4>
+        <p> </p>
+
+        
+        </div>
+        <p>Worked on ERP (Enterprise resource planning) </p>
+        <p>Build Projects</p>
+        <p>Use github and gitlab for version control</p>
+        <p>Learned different web technologies and implemented in different projects</p>
+    
+        </div>
             
         </div>
         </div>

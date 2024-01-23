@@ -7,7 +7,7 @@
   flex-direction: column;
   align-items: center;
 
-  background-color: #1180ef;
+  background-color: #28323b;
 }
 .e > h1 {
   color: white;
@@ -22,7 +22,7 @@
   height: 300px;
   display: flex;
   justify-content: space-around;
-  background-color: #1180ef;
+  background-color: #161b1f;
 }
 .ec {
   display: flex;

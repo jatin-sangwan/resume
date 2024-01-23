@@ -29,7 +29,9 @@ function Slider() {
             
                 <h1 className="slider-left-h1">Hi I am Jatin</h1>
 
-                <h1 className="slider-left-h4">Innovator, Quick learner, Problem Solver</h1>
+                <h1 className="slider-left-h4">Full-time Php developer with 4 years of experience in 
+building websites, api, responsive webpages and creating 
+high performance applications.</h1>
                 
                 
                 <h4 className="slider-left-h4">A passionate Full Stack Web Developer 

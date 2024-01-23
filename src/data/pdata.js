@@ -1,21 +1,27 @@
 export const portfolio=[
 
     {
+        image:'pimages/cataph.png',
+        link:'https://portal.cataphract.co.uk',
+        tech:'LARAVEL'
+
+    },
+    {
         image:'pimages/saral.png',
-        link:'https://saralformation.com/',
+        link:'#',
         tech:'LARAVEL'
 
     },
 
     {
         image:'pimages/chitro.png',
-        link:'https://dev.gazingtechnosoft.com/jatin/chitrolab/',
+        link:'https://chitrolab.com/',
         tech:'LARAVEL'
     },
      
     {
         image:'pimages/ca.png',
-        link:'https://dev.gazingtechnosoft.com/jatin/CA-Avinash/',
+        link:'#',
         tech:'LARAVEL'
     },
     {
@@ -26,13 +32,13 @@ export const portfolio=[
     },
     {
         image:'pimages/smoke.png',
-        link:'https://dev.gazingtechnosoft.com/jatin/smokcartel/',
+        link:'#',
         tech:'LARAVEL'
       
     },
     {
         image:'pimages/beach.png',
-        link:'https://greenleafstay.com/',
+        link:'#',
         tech:'LARAVEL'
       
     },
