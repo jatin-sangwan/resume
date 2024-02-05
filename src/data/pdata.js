@@ -36,17 +36,7 @@ export const portfolio=[
         tech:'LARAVEL'
       
     },
-    {
-        image:'pimages/beach.png',
-        link:'#',
-        tech:'LARAVEL'
-      
-    },
- 
- 
- 
- 
-
+    
 
 ]
 
